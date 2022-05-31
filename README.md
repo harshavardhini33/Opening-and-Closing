@@ -68,15 +68,17 @@ plt.imshow(image1)
 ## Output:
 
 ### Display the input Image
-![download](https://user-images.githubusercontent.com/93427208/171139168-153ff968-9ca6-4b66-8fae-18047a045d82.png)
+![download](https://user-images.githubusercontent.com/93427208/171140133-ff24d988-2ecc-4668-949a-e085deebdccb.png)
+
 
 ### Display the result of Opening
+![download](https://user-images.githubusercontent.com/93427208/171140151-bc9510d9-ea97-4887-9902-b79669606c3d.png)
 
-![download](https://user-images.githubusercontent.com/93427208/171139220-6f9f39b9-b585-4ef9-a3e1-92ab0dd81c70.png)
+
 
 ### Display the result of Closing
-![download](https://user-images.githubusercontent.com/93427208/171139241-35f3eea0-5c5a-4609-a893-1a600bd81cd0.png)
 
+![download](https://user-images.githubusercontent.com/93427208/171140178-fa5815f4-0eed-4ff9-9cbf-dff20642e3bd.png)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
